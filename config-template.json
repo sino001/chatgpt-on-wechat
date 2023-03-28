@@ -7,7 +7,7 @@
   "single_chat_reply_prefix": "",
   "group_chat_prefix": ["ai"],
   "group_name_white_list": ["人工智能测试", "宝贝一家亲"],
-  "group_chat_in_one_session": ["人工智能测试", "宝贝一家亲"],
+  "group_chat_in_one_session": ["ALL_GROUP"],
   "image_create_prefix": ["画", "看", "找"],
   "speech_recognition": true,
   "group_speech_recognition": true,
