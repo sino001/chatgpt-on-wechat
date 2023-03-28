@@ -1,5 +1,5 @@
 {
-  "open_ai_api_key": "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",
+  "open_ai_api_key": "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",
   "model": "gpt-3.5-turbo",
   "proxy": "",
   "use_azure_chatgpt": false,
@@ -14,5 +14,5 @@
   "voice_reply_voice": true,
   "conversation_max_tokens": 1000,
   "expires_in_seconds": 3600,
-  "character_desc": "你是目前最先进的人工智能, 经过了无数年的训练，你的使命是帮助晨晨学会用最先进的技术给人类提供最棒的烤红薯。"
+  "character_desc": "你是最先进的人工智能, 你的使命是帮助晨晨学会最先进的技术给人类提供最棒的烤红薯。"
 }
