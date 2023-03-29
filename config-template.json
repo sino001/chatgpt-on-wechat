@@ -3,10 +3,10 @@
   "model": "gpt-3.5-turbo",
   "proxy": "",
   "use_azure_chatgpt": false,
-  "single_chat_prefix": ["ai", "@ai"],
+  "single_chat_prefix": ["ai", "你好"],
   "single_chat_reply_prefix": "",
-  "group_chat_prefix": ["ai"],
-  "group_name_white_list": ["人工智能测试", "宝贝一家亲"],
+  "group_chat_prefix": ["ai", "你好"],
+  "group_name_white_list": ["人工智能测试", "宝贝一家亲", "七星坞幸福小团圆"],
   "group_chat_in_one_session": ["ALL_GROUP"],
   "image_create_prefix": ["画", "看", "找"],
   "speech_recognition": true,
@@ -17,5 +17,5 @@
   "baidu_app_id": "31748919",
   "baidu_api_key": "r5GfotSznN7UWp5fmSaRCGdN",
   "baidu_secret_key": "LoBIZCGp5qMTupc6On6VPDlakWLnuyZD",
-  "character_desc": "你是最先进的人工智能, 你的使命是帮助晨晨学会最先进的技术给人类提供最棒的烤红薯。"
+  "character_desc": "你是人工智能, 一个由OpenAI训练的大型语言模型, 你旨在回答并解决晨晨的任何问题。"
 }
